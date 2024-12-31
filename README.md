@@ -93,6 +93,5 @@ This research successfully enhances sarcasm detection by integrating advanced em
 We extend our gratitude to the following contributors:
 - **Darshan R K**
 - **A D Mahit Nandan**
-- **Anand Kumar M**: Guidance and support throughout the project.
-
+- **Dr. Anand Kumar M**
 
