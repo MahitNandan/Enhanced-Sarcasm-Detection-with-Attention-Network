@@ -12,7 +12,6 @@ This project focuses on improving sarcasm detection in text, specifically news h
 - [Results](#results)
 - [Conclusion](#conclusion)
 - [Acknowledgments](#acknowledgments)
-- [References](#references)
 
 ---
 
@@ -92,16 +91,8 @@ This research successfully enhances sarcasm detection by integrating advanced em
 ## Acknowledgments
 
 We extend our gratitude to the following contributors:
-- **Darshan R K**: Model development and experimentation.
-- **A D Mahit Nandan**: Dataset processing and model evaluation.
+- **Darshan R K**
+- **A D Mahit Nandan**
 - **Anand Kumar M**: Guidance and support throughout the project.
 
----
 
-## References
-
-1. Misra, R., Arora, P.: Sarcasm detection using news headlines dataset. *AI Open*, 2023.
-2. Joshi, A., Bhattacharyya, P., Carman, M.J.: Automatic sarcasm detection: A survey. *ACM Computing Surveys (CSUR)*, 2017.
-3. Mohan, A., et al.: Sarcasm detection using BERT and graph convolutional networks. *Procedia Computer Science*, 2023.
-
-Refer to the full paper for additional references and details.
